@@ -19,9 +19,4 @@
         else:
             return -1
 
-        
->>> list = ['a','b','c','d','e','f','g','h']
->>> value = 'd'
->>> aa = BinSearch(list,value)
->>> aa
-3
+       
